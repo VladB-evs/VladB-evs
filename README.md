@@ -61,5 +61,3 @@ skydiving, rock climbing, urban climbing, extreme sports in general
   <img src="https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 </p>
-
-# 📊 GitHub Stats: ![](https://github-readme-stats.vercel.app/api?username=vladb-evs&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=vladb-evs&theme=dark&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vladb-evs&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
