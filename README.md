@@ -1,22 +1,23 @@
 # Vlad
+Founder & CTO of **Romi powered by Neuro**.
 
-## Building
+Most of my work revolves around reducing friction. Less tapping, less thinking, less fighting with software.
 
-### 🧠 Neuro
+## Building right now:
 
-Creating software that helps people think less about managing life and more about living it.
+### 🧠 Romi
 
-**Current focus**
+A life management platform built for adults with ADHD.
 
-- **Romi** *(redesign in progress)*
+Tasks, routines, notes, goals, calendars, and everything else life throws at you, organized in a way that feels natural instead of overwhelming.
 
----
+An AI assistant that listens to the chaos in your head and quietly turns it into something useful.
 
 ## ⚡ Experiments & Small Apps
 
 Sometimes an idea doesn't need to become a startup. Sometimes it just needs to exist.
 
-- 🍎 **Perch**  - Tiny menu bar to-do list.
+- 🍎 **Perch**  - Tiny menu bar to-do list, all offline, all in your top bar for later when you need it. 
 
 More weird little apps coming...
 
