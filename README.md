@@ -3,10 +3,10 @@
 Hi, I’m Vlad. I build software that actually tries to understand humans.  
 
 ## 🔭 Currently Working On
-**Neuro Notion**  
+**Romi by Neuro**  
 A life management platform designed for adults with ADHD that actually gets how your brain works. It organizes thoughts, tasks, goals, and routines in a calm, user-friendly way without adding cognitive overload.
 
-**Claudia**, the voice-first AI assistant, transforms chaotic ideas into actionable items and mood logs automatically.
+**Romi**, the voice-first AI assistant, transforms chaotic ideas into actionable items and mood logs automatically.
 
 - Natural language task input  
 - Mood-aware workflows  
