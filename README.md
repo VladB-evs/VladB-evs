@@ -1,24 +1,24 @@
-# 💫 About Me
+# Vlad
 
-Hi, I’m Vlad. I build software that actually tries to understand humans.  
+## Building
 
-## 🔭 Currently Working On:
+### 🧠 Neuro
 
-**Romi by Neuro**  
-A life management platform designed for adults with ADHD that actually gets how your brain works. It organizes thoughts, tasks, goals, and routines in a calm, user-friendly way without adding cognitive overload.
+Creating software that helps people think less about managing life and more about living it.
 
-**Romi**, the voice-first AI assistant, transforms chaotic ideas into actionable items and mood logs automatically.
+**Current focus**
 
-- Natural language task input  
-- Mood-aware workflows  
-- ADHD-centric design that actually works  
-- Templates and dashboards built to reduce friction  
-- Blog and insights for real-world ADHD challenges  
+- **Romi** *(redesign in progress)*
 
-[👉 Check it out: Neuro Notion](https://www.neuro-notion.com/)
+---
 
-**I also buld actually usefull mac apps:** 
-1. Perch -  a tiny menu-bar to-do list. Check it off, watch it vanish. No mercy.
+## ⚡ Experiments & Small Apps
+
+Sometimes an idea doesn't need to become a startup. Sometimes it just needs to exist.
+
+- 🍎 **Perch**  - Tiny menu bar to-do list.
+
+More weird little apps coming...
 
 ---
 
