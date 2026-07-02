@@ -17,7 +17,7 @@ An AI assistant that listens to the chaos in your head and quietly turns it into
 
 Sometimes an idea doesn't need to become a startup. Sometimes it just needs to exist.
 
-- 🍎 **Perch**  - Tiny menu bar to-do list, all offline, all in your top bar for later when you need it.
+- 🍎 [**Perch**](https://github.com/VladB-evs/Perch/releases/tag/v1.1)  - Tiny menu bar to-do list, all offline, all in your top bar for later when you need it.
 - 🔖 [**Mark Flow**](https://mark-flow-one.vercel.app/) - web based markdown to text editor, for those who need plan text from markdown lol
 - 🪦 [**SVG Decomposer**](https://svg-decomposer.vercel.app/) - stupid name but it works if you need specific layers from an SVG file 
 
