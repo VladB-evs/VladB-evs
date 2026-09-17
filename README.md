@@ -1,7 +1,7 @@
 <!-- RICK & MORTY GIF:START -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/JTa7LMZnXcrF0oyMxo/giphy.gif" width="700">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Z2syN2ZidzhpZzZwcDc2dGxlOTJsZG5mM2phMWh2YnZzMHkzM3puaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gKMaKOacKLriQxaPLm/giphy.gif" width="700">
 </p>
 <!-- RICK & MORTY GIF:END -->
 
@@ -24,7 +24,7 @@
 ---
 ## `~/whoami`
 
-I'm Vlad, a developer and CTO who likes turning questionable ideas into actual software.
+I'm Vlad, just a guy with a laptop.
 
 I spend most of my time building AI products, macOS apps, developer tools, and automation systems. I like software that feels fast, looks good, and doesn't require a 47-page manual to understand.
 
@@ -33,7 +33,7 @@ Currently, I'm building at **Neuro**, working on products that make computers a 
 #### I like
 Building things from scratch <br>
 AI that actually does something useful <br>
-Open Source <br>
+Open Sauce <br>
 Automating repetitive nonsense <br>
 Turning "I wonder if..." into a GitHub repository <br>
 
