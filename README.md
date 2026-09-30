@@ -1,7 +1,7 @@
 <!-- RICK & MORTY GIF:START -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3b2gyMTkyanptZzVnMWc3eTN2eDIzNGhzM3RlY2g1a2Q1ZXFnc2hueSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lpxqmxzQHL7hUejepu/giphy.gif" width="700">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MG85MmVncXF5dzcyMXY4NW1yZjM4MDZhamwyMWY2aHd2NDk4bG42ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kcsPE5r7tP6kf8a8ly/giphy.gif" width="700">
 </p>
 <!-- RICK & MORTY GIF:END -->
 
